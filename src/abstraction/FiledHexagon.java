@@ -5,7 +5,7 @@ public  class FiledHexagon extends Hexagon{
 
     @Override
     public void doHexagonStuff() {
-
+     // comment
     }
 
     @Override
